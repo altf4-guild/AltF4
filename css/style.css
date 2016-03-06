@@ -802,6 +802,10 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 	color: #333;
 }
+	#fh5co-members h3.vacant {
+	opacity: 0.33;
+	filter: alpha(opacity=33);
+	}
 #fh5co-members h3 span {
 	font-size: .75em;
 	display: block;
